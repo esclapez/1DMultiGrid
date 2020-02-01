@@ -1,0 +1,13 @@
+MODULE mod_prec_defs
+
+   IMPLICIT NONE
+
+   INTEGER, PARAMETER :: pr = SELECTED_REAL_KIND(15,307)
+   INTEGER, PARAMETER :: spr = SELECTED_REAL_KIND(6,307)
+   INTEGER, PARAMETER :: ipr = SELECTED_INT_KIND(5)
+   INTEGER, PARAMETER :: strl = 240 
+
+   REAL(pr), PARAMETER :: one = 1.0_pr
+   REAL(pr), PARAMETER :: eps = EPSILON(one)
+
+END MODULE mod_prec_defs
