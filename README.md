@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/github/esclapez/1DMultiGrid.svg?branch=master)](https://travis-ci.com/github/esclapez/1DMultiGrid)
+[![Build Status](https://travis-ci.com/esclapez/1DMultiGrid.svg?branch=master)](https://travis-ci.com/github/esclapez/1DMultiGrid)
 
 # MG1D_AMReXlike
  
